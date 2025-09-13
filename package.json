@@ -8,5 +8,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanrith785/test-devops.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Vanrith785/test-devops/issues"
+  },
+  "homepage": "https://github.com/Vanrith785/test-devops#readme",
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
